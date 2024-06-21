@@ -1,0 +1,3 @@
+- [ ] Change fonts
+- [ ] Add social links icons from fontawesome
+- [ ] Add hovers
