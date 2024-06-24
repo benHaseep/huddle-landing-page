@@ -1,3 +1,4 @@
-- [ ] Change fonts
-- [ ] Add social links icons from fontawesome
+- [x] Change fonts
+- [x] Add social links icons from fontawesome
 - [ ] Add hovers
+- [ ] Handle README.md
